@@ -1,2 +1,0 @@
-mod leetcode0001_two_sum;
-mod leetcode0004_find_median_sorted_arrays;
